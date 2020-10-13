@@ -1,0 +1,8 @@
+dependencies {
+    compile project(':mall-common')
+    implementation "com.github.pagehelper:pagehelper-spring-boot-starter"
+    implementation "com.alibaba:druid-spring-boot-starter"
+    implementation "org.mybatis.generator:mybatis-generator-core"
+    implementation "mysql:mysql-connector-java"
+}
+

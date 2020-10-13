@@ -1,0 +1,9 @@
+rootProject.name = 'mall'
+include 'mall-admin'
+include 'mall-common'
+include 'mall-demo'
+include 'mall-mbg'
+include 'mall-portal'
+include 'mall-search'
+include 'mall-security'
+

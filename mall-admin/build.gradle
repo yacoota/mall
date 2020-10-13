@@ -1,0 +1,10 @@
+dependencies {
+    compile project(':mall-mbg')
+    compile project(':mall-security')
+    implementation "com.aliyun.oss:aliyun-sdk-oss"
+    implementation "io.minio:minio"
+
+    implementation "org.springframework.boot:spring-boot-starter-web"
+    implementation "org.springframework.boot:spring-boot-starter-security"
+}
+
