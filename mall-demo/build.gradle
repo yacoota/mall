@@ -1,5 +1,6 @@
 dependencies {
     compile project(':mall-mbg')
+    compile project(':mall-common')
     implementation "org.springframework.boot:spring-boot-starter-thymeleaf"
     implementation "org.springframework.boot:spring-boot-starter-security"
     implementation "net.logstash.logback:logstash-logback-encoder"

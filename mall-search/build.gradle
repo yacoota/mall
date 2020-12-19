@@ -1,6 +1,6 @@
 dependencies {
     compile project(':mall-mbg')
-
+    compile project(':mall-common')
     implementation "org.springframework.boot:spring-boot-starter-web"
     implementation "org.springframework.boot:spring-boot-starter-data-elasticsearch"
 }
